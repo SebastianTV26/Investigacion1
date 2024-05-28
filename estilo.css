@@ -16,3 +16,15 @@ li {
 p {
     font-size: 18px;
 }
+
+/* Sección "Acerca de" */
+#AcercaDe {
+    background-color: black;
+    color: white;
+    h2 {
+        color: white;
+    }
+    footer {
+        color: white;
+    }
+}
